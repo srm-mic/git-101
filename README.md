@@ -5,6 +5,7 @@ The Boilerplate Git repo used for the git-101 session.
 ## Name of Participant
 
 (Use an unordered list to enter your name here)
+* Pranjal Datta
 
 ## Stuff we are gonna explore
 
