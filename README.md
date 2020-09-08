@@ -6,7 +6,8 @@ The Boilerplate Git repo used for the git-101 session.
 
 (Use an unordered list to enter your name here)
 
-## Stuff we are gonna explore
+* Aayush
+# Stuff we are gonna explore
 
 * What is Git?
 
